@@ -1,7 +1,5 @@
 # Ufigi - Nigerian Association 🌍
 
-![NGO](https://i.gifer.com/7oSI.gif)
-
 ## Welcome to Ufigi 🤝
 
 We are the **Nigerian Association**, an NGO dedicated to always helping those in need. Our goal is to provide support and resources to the most vulnerable communities in Nigeria.
