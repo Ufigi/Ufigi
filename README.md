@@ -1,6 +1,6 @@
 # Ufigi - Nigerian Association 🌍
 
-![NGO](https://i.gifer.com/7oSI.gif)
+![NGO]('https://i.gifer.com/7oSI.gif')
 
 ## Welcome to Ufigi 🤝
 
